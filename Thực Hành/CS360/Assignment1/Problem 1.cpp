@@ -1,3 +1,9 @@
+/*
+ Dam Quang Trung
+ 1694454
+ Assignment1
+ */
+
 #include <iostream>
 
 using namespace std;
